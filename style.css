@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    color: white;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title-img {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 0%;
+
+}
+
+.tablitsa {
+    
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 20%;
+    border-collapse: collapse;
+    border-spacing: 55px 1rem;
+}
+
+.tablitsa td {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+.logo {
+    margin-top: 3%;
+    margin-left: 2%;
+    margin-right: 25%;
+    position: absolute;
+
+}
